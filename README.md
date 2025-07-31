@@ -1,10 +1,10 @@
-#Metro Station Navigator
+# Metro Station Navigator
 
 A C-based console application to simulate and query a **metro rail network** using **graph algorithms**. It allows users to search for metro stations, compute distances, estimate travel times and costs, and find shortest paths between stations in a metropolitan city.
 
 ---
 
-##Features
+## Features
 
 - View list of all metro stations
 - Find shortest distance between two stations
@@ -18,7 +18,7 @@ A C-based console application to simulate and query a **metro rail network** usi
 
 ---
 
-##How It Works
+## How It Works
 
 - The metro map is modeled using an **adjacency matrix** representation of a graph.
 - Nodes represent **stations**, and edges represent **routes** with weights indicating distance (in meters).
@@ -27,7 +27,7 @@ A C-based console application to simulate and query a **metro rail network** usi
 
 ---
 
-##Setup & Compilation
+## Setup & Compilation
 
 ### 🔹 Requirements
 
