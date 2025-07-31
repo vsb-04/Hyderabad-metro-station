@@ -6,12 +6,12 @@ A C-based console application to simulate and query a **metro rail network** usi
 
 ##Features
 
--View list of all metro stations
--Find shortest distance between two stations
--Estimate travel time and fare between two stations
--Display station-to-station network (multiple destinations)
--Count number of stations between source and destination
--Show estimated travel duration based on real-world assumptions
+- View list of all metro stations
+- Find shortest distance between two stations
+- Estimate travel time and fare between two stations
+- Display station-to-station network (multiple destinations)
+- Count number of stations between source and destination
+- Show estimated travel duration based on real-world assumptions
 
 ---
 
